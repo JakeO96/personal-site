@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Jake O</title>
-        <meta name="description" content="Jake O'Leary's personal website" />
+        <meta name="description" content="Jake O&apos;Leary&apos;s personal website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
