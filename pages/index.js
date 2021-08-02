@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Jake O</title>
-        <meta name="description" content="Jake O&apos;Leary&apos;s personal website" />
+        <meta name="description" content="homepage for jake oleary" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Hi, my name is Jake O'Leary and this is where I will post my
+          Hi, my name is Jake O&apos;Leary and this is where I will post my
           software projects, my thoughts and knowledge to a blog,
           and various works of writing.
         </p>
