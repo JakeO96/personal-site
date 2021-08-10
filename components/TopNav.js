@@ -11,9 +11,6 @@ export default function TopNav() {
           <a href={"https://www.jake-oleary.com/test-pg1"}>
             <li>Test Link 1</li>
           </a>
-          <a href={"https://www.jake-oleary.com/test-pg2"}>
-            <li>Test Link 2</li>
-          </a>
       </ul>
     </div>
   );
