@@ -1,0 +1,39 @@
+.topNav{
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+.topNav ul{
+    list-style-type: none;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.topNav li {
+    width: 100%;
+    height: 100%;
+    margin: 16px 0;
+    display: flex;
+    justify-content: center;
+}
+.topNav a {
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #19C267;
+    transition: background-color .2s ease-out;
+}
+.topNav p {
+    padding: 0;
+}
+.topNav a:hover {
+    border-bottom: 1px solid #76F6D5;
+    color: #76F6D5;
+    border-top: 1px solid #76F6D5;
+}
+
+
+

@@ -1,0 +1,50 @@
+.yuesHeader{
+    top: 0;
+    width: 100%;
+    background-color: #fafafa;
+    border-top: solid 4px #19C267;
+    min-height: 45px;
+    background-image: none;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 3px -3px rgba(0,0,0,.25);
+}
+
+.headerContent {
+    display: flex;
+    margin: auto;
+    width: 90%;
+    height: 100px;
+}
+.logoSurround {
+    display: block;
+}
+
+.navSection {
+    width: 80%;
+    display: flex;
+}
+.wrapit {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 80%;
+}
+.logButtonStyle {
+    border: none;
+    background-color: #F48037;
+    color: #424242;
+    height: 40%;
+    width: 10%;
+    box-shadow: 12px 6px 2px 1px #76F6D5;
+    transition: .2s ease;
+}
+.logButtonStyle:hover {
+    box-shadow: none;
+    background-color: #76F6D5;
+    color: black;
+    cursor: pointer;
+}
+
+
